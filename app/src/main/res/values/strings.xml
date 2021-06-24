@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrackMe01</string>
+    <string name="rules">Règle de ce crackme : interdit de décompiler l\'application.\n Vous devez récupérer les accès Premium.</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="riche">Cliquez sur l\'euro pour devenir riche</string>
+    <string name="title_activity_premium">Premium</string>
+</resources>
